@@ -1,0 +1,11 @@
+﻿    28 Langauge Byte
+ 52-59 Character unlock flags
+64-460 Character stats
+|_____     0 Level Int
+|_____     4 XP Int
+|_____     8 Unspent skill points
+|_____    12 Total skill points
+|_____ 16-31 Unlockable skills
+|___________ 0 Dash Attack
+|___________ 1 Hi Jump
+|___________ 2 Air Throw
