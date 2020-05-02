@@ -10,16 +10,16 @@ namespace libBG.Types
 {
     public static class Characters
     {
-        public const int Mikoto =   0x0;
-        public const int Waka =     0x1;
-        public const int Itsuki =   0x2;
-        public const int Yuzuha =   0x3;
-        public const int M =        0x4;
-        public const int Cocoa =    0x5;
+        public const int Mikoto   = 0x0;
+        public const int Waka     = 0x1;
+        public const int Itsuki   = 0x2;
+        public const int Yuzuha   = 0x3;
+        public const int M        = 0x4;
+        public const int Cocoa    = 0x5;
         public const int Infinity = 0x6;
-        public const int Nagi =     0x7;
-        public const int MikotoW =  0x8;
-        public const int L =        0x9;
+        public const int Nagi     = 0x7;
+        public const int MikotoW  = 0x8;
+        public const int L        = 0x9;
     }
     public class Character : IGameData
     {
